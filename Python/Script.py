@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-planes = pd.read_csv(r'C:\Users\david\Downloads\planes_original_structure_usd_routes_scaled_prices.csv',
+planes = pd.read_csv(r'FILE PATH',
                      parse_dates=['Date_of_Journey'])
 
 #Extract hours and minutes and possibly days
