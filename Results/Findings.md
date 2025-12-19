@@ -50,4 +50,12 @@ This project demonstrates:
 - Why **EDA beats assumptions**  
 - How **feature generation changes conclusions**  
 - The importance of questioning “obvious” relationships  
-- How to turn raw operational data into strategic insight  
+- How to turn raw operational data into strategic insight
+
+---
+
+## 🏁 Final Takeaway
+> **Good analysis challenge intuition.**
+
+This dataset teaches us that pricing in aviation (at least based on this sample dataset) is more related to how many times you stop during your trip than the total duration of it. 
+This contradicts basic intuition, which highlights the importance of deeper analysis to really uncover hidden patterns.
