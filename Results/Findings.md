@@ -44,16 +44,6 @@ However, once durations are properly normalized, the data shows:
 
 ---
 
-## 🚀 Why does all of this matters?
-This project demonstrates:
-
-- Why **EDA beats assumptions**  
-- How **feature generation changes conclusions**  
-- The importance of questioning “obvious” relationships  
-- How to turn raw operational data into strategic insight
-
----
-
 ## 🏁 Final Takeaway
 > **Good analysis challenge intuition.**
 
