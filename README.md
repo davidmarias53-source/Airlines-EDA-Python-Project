@@ -25,7 +25,7 @@ Using Python-based exploratory data analysis and visualization, the project demo
 
 ---
 
-## 🚀 Why does all of this matters?
+## 🚀 What is the relevance of this project?
 This project demonstrates:
 
 - Why **EDA beats assumptions**  
