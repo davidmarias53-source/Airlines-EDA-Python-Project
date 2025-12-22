@@ -23,6 +23,16 @@ Using Python-based exploratory data analysis and visualization, the project demo
 - Matplotlib & Seaborn  
 - Exploratory Data Analysis (EDA)
 
+---
+
+## 🚀 Why does all of this matters?
+This project demonstrates:
+
+- Why **EDA beats assumptions**  
+- How **feature generation changes conclusions**  
+- The importance of questioning “obvious” relationships  
+- How to turn raw operational data into strategic insight
+
 
 
 
