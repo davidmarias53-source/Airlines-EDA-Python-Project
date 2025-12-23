@@ -47,7 +47,7 @@ However, once durations are properly normalized, the data shows:
   
 - **Airline-Level Scatter Plots**
 
-  Show how pricing strategies differ even for similar durations — once stops are considered.
+  Show how pricing strategies differ even for similar durations when stops are considered.
 
   ![Scatterplot](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project/blob/main/Python/Figure_3_3D_Scatter.png)
 
