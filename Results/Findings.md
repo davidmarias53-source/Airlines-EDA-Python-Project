@@ -40,6 +40,7 @@ However, once durations are properly normalized, the data shows:
 - **Correlation Heatmaps**
 
   Reveal how relationships evolve after transforming raw data.
+  
   ![Initial Heatmap](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project/blob/main/Python/Figure_1_Basic_Heatmap.png)
   
   ![Expanded Heatmap](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project/blob/main/Python/Figure_2_ExpandedHeatmap.png)
