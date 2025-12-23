@@ -37,10 +37,18 @@ However, once durations are properly normalized, the data shows:
 ---
 
 ## 📊 Visuals That Matter
-- **Correlation Heatmaps**  
+- **Correlation Heatmaps**
+
   Reveal how relationships evolve after transforming raw data.
-- **Airline-Level Scatter Plots**  
+  ![Initial Heatmap](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project/blob/main/Python/Figure_1_Basic_Heatmap.png)
+  
+  ![Expanded Heatmap](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project/blob/main/Python/Figure_2_ExpandedHeatmap.png)
+  
+- **Airline-Level Scatter Plots**
+
   Show how pricing strategies differ even for similar durations — once stops are considered.
+
+  ![Scatterplot](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project/blob/main/Python/Figure_3_3D_Scatter.png)
 
 ---
 
