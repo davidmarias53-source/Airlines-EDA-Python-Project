@@ -1,4 +1,0 @@
-Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
-44,No,Travel_Rarely,661,Research & Development,9,2,Life Sciences,1,913,2,Male,61,3,1,Research Scientist,1,Married,2559,7508,1,Y,Yes,13,3,4,80,0,8,0,3,8,7,7,1
-30,No,Travel_Rarely,241,Research & Development,7,3,Medical,1,1609,2,Male,48,2,1,Research Scientist,2,Married,2141,5348,1,Y,No,12,3,2,80,1,6,3,2,6,4,1,1
-40,No,Non-Travel,218,Research & Development,8,1,Medical,1,1468,4,Male,55,2,3,Research Director,2,Divorced,13757,25178,2,Y,No,11,3,3,80,1,16,5,3,9,8,4,8
